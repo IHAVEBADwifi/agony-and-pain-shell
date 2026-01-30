@@ -1,0 +1,19 @@
+shit i need for services
+pipewire, cava, playerctl (audio)
+upower (battery)
+brightnessctl, iio-sensor-proxy (brightness)
+psutils (CPU info)
+nmcli, bluetoothctl,warp-cli, other vpn clis (networks)
+mpvpaper (wallpaper)
+matugen + install some themes jsons from github (dynamic + static themeing)
+timedatectl (calendar)
+handwrite a script for app searching (search bar)
+tpl (power management)
+mako (notifications)
+slurp, grim (screenshot function)
+Weatherstack (weather)
+
+
+side popout will include :
+dashboard :
+    
