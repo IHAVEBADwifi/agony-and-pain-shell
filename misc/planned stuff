@@ -16,4 +16,46 @@ Weatherstack (weather)
 
 side popout will include :
 dashboard :
-    
+    weather
+    warp toggle
+    IP address
+    network strength
+Audio:
+    Current audio source
+    Slider for file progress
+    Next, Pause and skip button
+    Icon of audio source, spotify icon etc etc
+    Audio Visualiser
+CPU/GPU:
+    CPU Temp + load
+    GPU Temp + load
+    RAM usage
+Task manager:
+    Running processes (sorted by either RAM or cpu usage)
+    RAM + CPU usage
+
+Left Top bar will include:
+power button - leads to wlogout like popup
+Workspace:
+    Workspace ID
+    Workspace Window Name
+    Button to switch workspaces
+
+Middle top bar will include:
+Time popup (time is shown on popup area)
+Popup includes:
+    Date DD/MM/YYYY
+    Day of Week
+    Calendar (maybe events but that might take too much space)
+
+Right top bar will include:
+Battery popup (icon shows a slider with colour variation based on percentage, charger icon over the battery icon when plugged)
+Includes:
+    Performance Choice (Performance,Optimised and Saver)
+    Time left on battery
+
+Audio + Brightness popups(Audio icon will vary with loudness set):
+Includes:
+    Sliders for brightness and audio
+
+Notifications appear underneath the right top bar icons (shift down when popups appear) 
